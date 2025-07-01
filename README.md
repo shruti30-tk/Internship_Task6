@@ -22,6 +22,7 @@ To explore how password complexity impacts security by testing different passwor
 | `Shruti@123`    | Medium   | A few hours      |
 | `Sh!2025Secure$` | Strong | Trillions of years |
 
+
 ![Screenshot 2025-07-01 211556](https://github.com/user-attachments/assets/0318f70a-20f3-42f8-947a-f475596df13b)
 ![Screenshot 2025-07-01 211528](https://github.com/user-attachments/assets/5ea1c8c7-f0ca-4dc1-9746-57a20d332be5)
 ![Screenshot 2025-07-01 211447](https://github.com/user-attachments/assets/249a0e0a-dd43-4aff-a8f4-bc42b7f15cbe)
